@@ -1,21 +1,21 @@
 # Site settings
-email: amalshehu@gmail.com
-baseurl: "amalshehu.github.io"
+email: 
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics:
+google_analytics: 
 
 # SEO settings
-title: Hello World
-description:
+title: Trophy
+description: 
 url: ""
-twitter_username: @amalshehu
-default_img:
+twitter_username: 
+default_img: 
 
 # Profile settings
-name: Amal Shehu
-profile_img:
-profile:
+name: 
+profile_img: 
+profile: 
 social:
   github: 
 
