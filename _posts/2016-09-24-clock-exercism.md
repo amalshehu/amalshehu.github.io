@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-### Clock Problem Explained(exercism.io):
+## Clock Problem Explained(exercism.io):
 Implement a clock that handles times without dates.
 
 Create a clock that is independent of date.
@@ -31,7 +31,7 @@ Two clocks that represent the same time should be equal to each other.
 
 Pairing session with Erin Drummond [https://twitter.com/ebdrummond](https://twitter.com/ebdrummond)
 
-### Solution:
+## Solution
 ~~~~ruby
 class Clock:
 
