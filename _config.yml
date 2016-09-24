@@ -1,6 +1,6 @@
 # Site
 title:              Amal Shehu
-bio:                '"Python powered"'
+bio:                'Python powered'
 description:        "An intense desire to design and build applications as a full stack developer."
 reading_time:       true
 words_per_minute:   200
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   amalshehu
+disqus_shortname:   amalshehu-github-io
 
 # Social
 # if you don't have any of social below, comment the line.
