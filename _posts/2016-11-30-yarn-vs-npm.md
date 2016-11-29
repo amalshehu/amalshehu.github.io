@@ -16,18 +16,18 @@ The angular2 team recommends the npm package manager for managing development li
 package manager for JavaScript runtime environment NodeJs,everybody knows that.In npm there will be JSON format file,that will help to
 install packages from main npm registry.The npm can manage local packages for a specific project and also globally installed JS tools.
 But the npm seemed to be too slow while installing packages and no offline mode.So i thought about other dependency managers.I tried Yarn.
-This comes with a lot features like Offline Mode, Network perfomance, Multiple registries, Flat mode, etc.</p>
+This comes with a lot of features like Offline Mode, Network perfomance, Multiple registries, Flat mode, etc.</p>
   So i did some Benchmarks with npm and Yarn on <a href="https://github.com/mgechev/angular-seed">angular-seed</a>.
 
 ### Benchmark
-
-| angular-seed | time |
-|-----------------------|---------------|
-| npm with empty cache | 07 min 32 sec |
-| npm with cache | 02 min 01 sec |
-| Yarn with empty cache | 01 min 36 sec |
-| Yarn with cache | 55 sec |
-
+```
+      angular-seed           time          
+--------------------------------------
+ npm with empty cache   07 min 32 sec
+ npm with cache         02 min 01 sec
+ Yarn with empty cache  01 min 36 sec
+ Yarn with cache        55 sec
+```
 ### Conclusion
 Yarn is about 3x more faster than NPM.I think Yarn will become  the default package manager for JavaScript runtime environment NodeJs soon.
 
