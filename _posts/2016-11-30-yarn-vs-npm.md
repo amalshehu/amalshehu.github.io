@@ -20,6 +20,8 @@ This comes with a lot features like Offline Mode, Network perfomance, Multiple r
   So i did some Benchmarks with npm and Yarn on <a href="https://github.com/mgechev/angular-seed">angular-seed</a>.
 
 ### Benchmark
+
+```
 | angular-seed          | time          |
 |-----------------------|---------------|
 | npm with empty cache  | 07 min 32 sec |
@@ -27,6 +29,7 @@ This comes with a lot features like Offline Mode, Network perfomance, Multiple r
 | Yarn with empty cache | 01 min 36 sec |
 | Yarn with cache       | <b>55 sec</b> |
 
+```
 ### Conclusion
 Yarn is about 3x more faster than NPM.I think Yarn will become  the default package manager for JavaScript runtime environment NodeJs soon.
 
