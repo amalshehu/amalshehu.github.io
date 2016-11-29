@@ -11,17 +11,26 @@ comments: true
 ---
 
 ### Is Yarn better than npm?
-I've been progressing on my way through angular2 and TypeScript,The package management was very important.
+<p> I've been progressing on my way through angular2 and TypeScript,The package management was very important.
 The angular2 team recommends the npm package manager for managing development libraries.And also npm is the default
-package manager for JavaScript runtime environment nodeJs,everybody knows that.In npm there will be JSON format file,that will help to
-install packages on main npm registry.The npm can manage local packages for a specific project and also globally installed JS tools.
+package manager for JavaScript runtime environment NodeJs,everybody knows that.In npm there will be JSON format file,that will help to
+install packages from main npm registry.The npm can manage local packages for a specific project and also globally installed JS tools.
 But the npm seemed to be too slow while installing packages and no offline mode.So i thought about other dependency managers.I tried Yarn.
-This comes with a lot features like Offline Mode, Network perfomance, Multiple registries, Flat mode, etc.
+This comes with a lot features like Offline Mode, Network perfomance, Multiple registries, Flat mode, etc.</p>
+  So i did some Benchmarks with npm and Yarn on <a href="https://github.com/mgechev/angular-seed">angular-seed</a>.
 
+### Benchmark
+| angular-seed          | time          |
+|-----------------------|---------------|
+| npm with empty cache  | 07 min 32 sec |
+| npm with cache        | 02 min 01 sec |
+| Yarn with empty cache | 01 min 36 sec |
+| Yarn with cache       | <b>55 sec</b> |
 
-
+### Conclusion
+Yarn is about 3x more faster than NPM.I think Yarn will become  the default package manager for JavaScript runtime environment NodeJs soon.
 
 
 ### Inspirational quote
 
-> Pearson's Law: "That which is measured improves. That which is measured and reported improves exponentially." - Karl Pearson
+> "That which is measured improves. That which is measured and reported improves exponentially." - I heard this from <a href="https://twitter.com/JikkuJose"> @JikkuJose</a> .
