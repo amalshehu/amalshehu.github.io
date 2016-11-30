@@ -34,4 +34,4 @@ Yarn is about 3x more faster than NPM.I think Yarn will become  the default pack
 
 ### Inspirational quote
 
-> "That which is measured improves. That which is measured and reported improves exponentially." - I heard this from <a href="https://twitter.com/JikkuJose"> @JikkuJose</a> .
+> "That which is measured, improves." - I heard this from <a href="https://twitter.com/JikkuJose"> @JikkuJose</a> .
