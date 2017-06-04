@@ -1,5 +1,15 @@
-# Turbo programmer
-A transformer guide from zero to hero.
+---
+layout: post
+title:  "Turbo programmer"
+date:   2017-06-04
+excerpt: "A transformer guide from zero to hero."
+tag:
+- Programming
+- Github
+
+comments: true
+---
+
 
 
 #### Who is a programmer?
@@ -25,7 +35,7 @@ If possible earn a Bachelor's degree in computer science.If you chose this path,
 - Start building a compiler or any projects which help to understand the foundation.After the course completion, this experience will give you benefits.
 - Take online courses. Eg: codecademy, codeschool,pluralsight, etc.
 
-###### Note: If you don't have a degree in computer science, No problem.Here you can start your career as a programmer.
+##### Note: If you don't have a degree in computer science, No problem.Here you can start your career as a programmer.
 
 ##### Prerequisites
 - Should love the things you do.
@@ -59,7 +69,7 @@ In this website, a lot of languages are there.Choose your preferred language and
 What is Github?
 GitHub is a website and service where geeks enthuse all the time. You can find a lot of open source projects there.Can be used for learning purposes.You can also find even the source code for Appollo space shuttle there.
 
-###### Learn the software version control basics from codecademy.com
+##### Learn the software version control basics from codecademy.com
 Create a Github account if doesn't have one.
 
 #### STEP 3: It’s the time to level up your programming skills 
@@ -72,7 +82,7 @@ I'm not joking, Once you complete all the exercism problems.
 The magic will start to happen.Your viewpoint about programming will change.
  
 If you complete all the above steps, This is the first checkpoint i think in your programming career. 
-###### Youre a Turbo programmer now.Let's unlock the potentials.
+##### Youre a Turbo programmer now.Let's unlock the potentials.
 
 
 
